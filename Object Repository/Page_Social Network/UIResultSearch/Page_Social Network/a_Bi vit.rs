@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bi vit</name>
+   <tag></tag>
+   <elementGuidId>be35561d-9894-43b4-b686-b5fc2a2967b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>28aec20c-e48b-48fb-af52-39edcbec6628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover:text-[#fff] text-yellow-50</value>
+      <webElementGuid>45842aeb-1690-4b9d-87ba-31d846b20ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/search/post?q=nam</value>
+      <webElementGuid>c61bdcbf-9837-42bd-9edf-bd08ed788326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bài viết</value>
+      <webElementGuid>a0e96c9f-2445-488d-8f49-f4c2db173244</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/div[@class=&quot;flex border-t-[0.5px] pt-[65px] justify-center&quot;]/main[@class=&quot;w-1/2 static&quot;]/div[@class=&quot;mx-3&quot;]/div[@class=&quot;h-[60px] rounded-b-2xl w-full profile-menu&quot;]/ul[@class=&quot;w-[55%] h-full flex items-center justify-between uppercase text-[16px]&quot;]/li[@class=&quot;cursor-pointer h-full px-4 flex items-center transition-all border-b-[3px] justify-center font-semibold hover:border-[#fff] hover:transition-all border-transparent&quot;]/a[@class=&quot;hover:text-[#fff] text-yellow-50&quot;]</value>
+      <webElementGuid>6188f31a-3d8a-4868-8fcb-0e158a42a80f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div/ul/li[3]/a</value>
+      <webElementGuid>f1b81dc7-a0d7-4b08-9a26-72eb156e7807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bài viết')]</value>
+      <webElementGuid>029a856b-6869-4b8f-9eb1-5aeb8c699a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa điểm'])[2]/following::a[1]</value>
+      <webElementGuid>ab66508a-6103-4b42-86a3-51cb3cbfa9a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tất cả'])[1]/following::a[2]</value>
+      <webElementGuid>fe6035ec-0dc6-45f9-a06f-c6c86a6fde11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mọi người'])[1]/preceding::a[1]</value>
+      <webElementGuid>f261ff25-94ef-48c9-8f4f-1b7018621baa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa điểm'])[3]/preceding::a[2]</value>
+      <webElementGuid>bea45773-3d91-4f46-9631-cce7a82736c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bài viết']/parent::*</value>
+      <webElementGuid>27baeb23-ec0a-4ad5-805a-f3bff55a8f07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/search/post?q=nam')]</value>
+      <webElementGuid>0b972aed-4118-4e87-8f42-8d5eaeb67652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/ul/li[3]/a</value>
+      <webElementGuid>0a1fb8e6-7fec-4eab-ad73-806577e8da16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/search/post?q=nam' and (text() = 'Bài viết' or . = 'Bài viết')]</value>
+      <webElementGuid>db5be4a9-0532-40d2-a483-00173422a954</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

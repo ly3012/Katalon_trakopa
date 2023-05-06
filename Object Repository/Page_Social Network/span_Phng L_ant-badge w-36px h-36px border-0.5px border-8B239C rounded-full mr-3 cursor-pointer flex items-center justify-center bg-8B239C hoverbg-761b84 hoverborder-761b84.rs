@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Phng L_ant-badge w-36px h-36px border-0.5px border-8B239C rounded-full mr-3 cursor-pointer flex items-center justify-center bg-8B239C hoverbg-761b84 hoverborder-761b84</name>
+   <tag></tag>
+   <elementGuidId>65137e83-16a5-4f00-8351-4a2de298b89b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7f83f422-a8e8-415a-8611-1f391d99762d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-badge w-[36px] h-[36px] border-[0.5px] border-[#8B239C] rounded-full mr-3 cursor-pointer flex items-center justify-center bg-[#8B239C] hover:bg-[#761b84] hover:border-[#761b84]</value>
+      <webElementGuid>d62dc120-c88f-4deb-99b1-9cde32a2eb6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/div[@class=&quot;flex h-[65px] w-full justify-between bg-white items-center px-10 fixed z-50&quot;]/div[@class=&quot;flex items-center mt-1&quot;]/a[1]/span[@class=&quot;ant-badge w-[36px] h-[36px] border-[0.5px] border-[#8B239C] rounded-full mr-3 cursor-pointer flex items-center justify-center bg-[#8B239C] hover:bg-[#761b84] hover:border-[#761b84]&quot;]</value>
+      <webElementGuid>822cf1b1-7a66-46d4-a1d6-8db43e9793b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/a/span</value>
+      <webElementGuid>d0c844ba-d501-43df-b77c-ba0af5c49805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phùng Lý'])[1]/preceding::span[2]</value>
+      <webElementGuid>0de62870-e3fa-4bda-800d-e5db4465939f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phùng Lý'])[2]/preceding::span[4]</value>
+      <webElementGuid>54e13c8e-8229-4282-9eb6-29cf397309f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>f36bdea2-3a92-47c6-b558-47e3570a78b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cp nht</name>
+   <tag></tag>
+   <elementGuidId>44684099-1c94-4c8f-980f-c1f67812d856</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div[2]/div[2]/div[2]/div[2]/form/div[4]/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7c2c90ac-f989-4f86-a994-606db0648eed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cập nhật</value>
+      <webElementGuid>3b49d340-c78e-473a-a493-9121dd00c869</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/main[@class=&quot;mx-auto pt-[65px]&quot;]/div[@class=&quot;flex mt-20&quot;]/div[@class=&quot;w-[70%] min-h-[500px] bg-white rounded-lg flex justify-between&quot;]/div[@class=&quot;w-3/4 p-4 h-full&quot;]/div[@class=&quot;py-4 border-b flex justify-between items-center&quot;]/form[@class=&quot;ant-form ant-form-horizontal w-full mt-3&quot;]/div[@class=&quot;flex justify-end space-x-2&quot;]/button[@class=&quot;ant-btn ant-btn-primary ant-btn-lg ant-btn-block rounded-md bg-primary hover:bg-second hover:border-second border-primary font-light flex items-center justify-center space-x-2 text-white&quot;]/span[1]</value>
+      <webElementGuid>4b8d713c-ab4b-4e47-9536-f306dff8eb06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/div[2]/div[2]/div[2]/form/div[4]/button[2]/span</value>
+      <webElementGuid>1beeb246-37cb-4a91-ae9d-3c491ac1e819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      <webElementGuid>dbc78f79-a1c6-4189-a47b-ba4285ebb592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ngày'])[1]/following::span[1]</value>
+      <webElementGuid>d4fe29aa-08b6-4334-a7cb-88d88335861c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Học vấn'])[1]/preceding::span[1]</value>
+      <webElementGuid>73df7834-6ba6-40ef-91b4-31ef651b246e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa chỉ'])[1]/preceding::span[1]</value>
+      <webElementGuid>f7300126-91d1-44e9-acaf-d161c51b2eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>7cb34f5f-3a19-4bf9-bbab-36bdd75fc6be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Cập nhật' or . = ' Cập nhật')]</value>
+      <webElementGuid>744addde-a434-4b29-8eee-7b37a92bbbb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

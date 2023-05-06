@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mi ngiPhng Ln t Ph ThKt bn</name>
+   <tag></tag>
+   <elementGuidId>0442ea8f-76c0-456c-80ef-8828d0de47b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>81cb19d0-413d-4bb1-9378-5262f70ac62d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-2 py-3 border rounded-2xl shadow-sm min-h-[300px] bg-white mt-3</value>
+      <webElementGuid>10c11076-fdf2-46f9-9b34-cd392b0936ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mọi ngườiPhùng LýĐến từ Phú ThọKết bạn</value>
+      <webElementGuid>89fc066b-5cee-4fe5-9004-0e1d4ba592b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/div[@class=&quot;flex border-t-[0.5px] pt-[65px] justify-center&quot;]/main[@class=&quot;w-1/2 static&quot;]/div[@class=&quot;p-3&quot;]/div[@class=&quot;w-full px-2 py-3 border rounded-2xl shadow-sm min-h-[300px] bg-white mt-3&quot;]</value>
+      <webElementGuid>0374c9e7-a3fe-44fb-a989-7116e1223111</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div[2]/div[3]</value>
+      <webElementGuid>03a35290-a65d-498a-a3cd-3065d8315bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bài viết'])[2]/following::div[1]</value>
+      <webElementGuid>03c9c254-8ab2-444f-9cdf-c1989061ea8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa điểm'])[3]/following::div[2]</value>
+      <webElementGuid>239802ed-a152-4140-8cf3-d2226f903455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>8ce4cc59-5de3-4717-a907-3676afadf1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mọi ngườiPhùng LýĐến từ Phú ThọKết bạn' or . = 'Mọi ngườiPhùng LýĐến từ Phú ThọKết bạn')]</value>
+      <webElementGuid>8bb5811b-690b-4e12-bb56-f96d9556cdd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

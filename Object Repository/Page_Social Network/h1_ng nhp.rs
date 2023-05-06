@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_ng nhp</name>
+   <tag></tag>
+   <elementGuidId>247573e7-522a-4920-a2da-1da98769e61c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div/div[2]/div/form/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>2629cb50-b64c-4b0a-992a-398b86b40d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[26px] mb-2 font-semibold uppercase</value>
+      <webElementGuid>32c24f99-2297-474a-b884-036cd7da538c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đặng nhập</value>
+      <webElementGuid>8e5bf529-8888-4310-8404-b162db3c16dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative core-body&quot;]/main[@class=&quot;mx-auto&quot;]/div[@class=&quot;flex relative&quot;]/div[@class=&quot;w-1/2 bg-transparent flex justify-center absolute right-0&quot;]/div[@class=&quot;w-[450px] mt-20&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/h1[@class=&quot;text-[26px] mb-2 font-semibold uppercase&quot;]</value>
+      <webElementGuid>3b4776cc-06b7-4545-833b-eadafaafa463</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div[2]/div/form/h1</value>
+      <webElementGuid>02767ca9-36a5-408b-8e9e-6cc9d6adc5e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/preceding::h1[1]</value>
+      <webElementGuid>a4b37491-cbcd-4032-a907-35f0085d0896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quên mật khẩu?'])[1]/preceding::h1[1]</value>
+      <webElementGuid>7f45ace7-b1ae-4ecc-bd9f-cedb6c2613b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đặng nhập']/parent::*</value>
+      <webElementGuid>2828a181-17ff-4699-bf94-d903575c873e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>cfb6a0d3-600c-4e9d-964e-cfe994451855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Đặng nhập' or . = 'Đặng nhập')]</value>
+      <webElementGuid>fa74d812-384d-4840-a07b-ee7a750bdc7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

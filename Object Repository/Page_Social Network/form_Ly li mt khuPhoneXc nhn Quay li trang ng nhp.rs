@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Ly li mt khuPhoneXc nhn Quay li trang ng nhp</name>
+   <tag></tag>
+   <elementGuidId>28968f70-b9b0-4412-b863-80134485de09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form.ant-form.ant-form-horizontal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div/div[2]/div/form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>df2f3661-4c0f-4b06-815c-112ccdb56f88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-form ant-form-horizontal</value>
+      <webElementGuid>a53beb5e-5449-49ba-a87b-abaf085ab8fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lấy lại mật khẩuPhoneXác nhận Quay lại trang đăng nhập</value>
+      <webElementGuid>0b929ede-fde3-4ac2-ae2a-e0e044342cc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative core-body&quot;]/main[@class=&quot;mx-auto&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;w-1/2 bg-[#f2f2f2] flex justify-center&quot;]/div[@class=&quot;w-[450px] mt-20&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]</value>
+      <webElementGuid>3ee24a93-8ad5-48c0-b344-1862d38638eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div[2]/div/form</value>
+      <webElementGuid>e588e479-c974-459d-ad5c-f4916b4cbaf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>c6e9b282-351a-4504-a588-0f0048dc8513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'Lấy lại mật khẩuPhoneXác nhận Quay lại trang đăng nhập' or . = 'Lấy lại mật khẩuPhoneXác nhận Quay lại trang đăng nhập')]</value>
+      <webElementGuid>646b2679-146f-4456-9918-aab715d16d46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

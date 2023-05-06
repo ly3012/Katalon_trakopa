@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>8f307f54-14ba-440c-a4ee-e84ee94c59e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>b4849815-3370-4131-a681-30b2ac8f7454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M4 20h4l10.5 -10.5a1.5 1.5 0 0 0 -4 -4l-10.5 10.5v4</value>
+      <webElementGuid>9cdcd824-f930-4e6e-a9f6-9320e7751ed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/main[@class=&quot;mx-auto pt-[65px]&quot;]/div[@class=&quot;flex mt-20&quot;]/div[@class=&quot;w-[70%] min-h-[500px] bg-white rounded-lg flex justify-between&quot;]/div[@class=&quot;w-3/4 p-4 h-full&quot;]/div[@class=&quot;py-4 border-b flex justify-between items-center&quot;]/div[@class=&quot;w-[30px] h-[30px] border-gray_1 bg-gray_1 hover:border-gray_2 hover:bg-gray_2 rounded-full flex items-center justify-center p-1 cursor-pointer shadow-md&quot;]/svg[@class=&quot;icon icon-tabler icon-tabler-pencil&quot;]/path[2]</value>
+      <webElementGuid>20073df1-b0c3-4348-9937-6c6e164d83f9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

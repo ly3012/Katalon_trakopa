@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_To tin</name>
+   <tag></tag>
+   <elementGuidId>4c85ee68-e3a9-4ee7-896f-0251cab83ad9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1d3d863d-2ea7-4a2a-a4fb-28004e64151d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-1/5 cursor-pointer h-full bg-white rounded-lg shadow-sm relative flex flex-col items-center</value>
+      <webElementGuid>8f459c64-ac1a-4d7c-ad32-dbbefe5255ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tạo tin</value>
+      <webElementGuid>5fdc6edc-f5db-4d75-8b79-fec086e8f616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/div[@class=&quot;flex border-t-[0.5px] pt-[65px] justify-center&quot;]/main[@class=&quot;w-1/2 static&quot;]/div[@class=&quot;px-8 pt-5 w-full overflow-y-auto h-screen main-feeds&quot;]/div[@class=&quot;flex relative h-[180px] justify-around items-center w-full text-center space-x-2&quot;]/div[@class=&quot;w-1/5 cursor-pointer h-full bg-white rounded-lg shadow-sm relative flex flex-col items-center&quot;]</value>
+      <webElementGuid>606daacc-3c37-4ba6-8310-fec703e4f8d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div/div</value>
+      <webElementGuid>8ac9b9d8-e4af-49d3-a5d2-07ef8ffe6c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lịch trình'])[1]/following::div[3]</value>
+      <webElementGuid>6b11c9c5-4ef0-42ff-88f9-1ed6954cfbf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đặt phòng'])[1]/following::div[3]</value>
+      <webElementGuid>e7a32d8c-d6be-4305-be73-71efaddbebf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phương Nam'])[1]/preceding::div[6]</value>
+      <webElementGuid>96aebbef-a3bf-423f-82fa-faba707c5f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div</value>
+      <webElementGuid>dac83fb7-0eaa-47a9-9417-9bfbad49ea37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tạo tin' or . = 'Tạo tin')]</value>
+      <webElementGuid>5aebcb73-414a-461e-885e-48b01ae23385</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

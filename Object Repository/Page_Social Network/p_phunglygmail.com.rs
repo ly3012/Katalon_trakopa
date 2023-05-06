@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_phunglygmail.com</name>
+   <tag></tag>
+   <elementGuidId>06d6d57d-05ca-4dd5-b0cc-8e9a9d49ba25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div[2]/div[2]/div[2]/div/div/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5f2fab5e-f2ae-46b3-af29-9637df8e5a7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-2 text-[14px] text-gray_1</value>
+      <webElementGuid>d7d00d7b-9ae4-4eb6-98e5-595aabea058a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>phungly@gmail.com</value>
+      <webElementGuid>5185fd99-4b46-459b-8dd9-39a0df30c7a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/main[@class=&quot;mx-auto pt-[65px]&quot;]/div[@class=&quot;flex mt-20&quot;]/div[@class=&quot;w-[70%] min-h-[500px] bg-white rounded-lg flex justify-between&quot;]/div[@class=&quot;w-3/4 p-4 h-full&quot;]/div[@class=&quot;py-4 border-b&quot;]/div[@class=&quot;flex justify-between items-center&quot;]/div[1]/div[@class=&quot;flex items-center mt-3&quot;]/p[@class=&quot;ml-2 text-[14px] text-gray_1&quot;]</value>
+      <webElementGuid>90641adc-ba81-4868-805f-64559fa6fbd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/div[2]/div[2]/div/div/div/div[2]/p</value>
+      <webElementGuid>d3148a27-5eba-4a04-a7ea-57a928e43649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin cá nhân'])[1]/following::p[2]</value>
+      <webElementGuid>5e29df43-7b66-4f29-bb17-83974941fbe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phùng Lý'])[3]/following::p[6]</value>
+      <webElementGuid>7592f3c1-a056-42bb-b08f-325514c96bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ngày'])[1]/preceding::p[2]</value>
+      <webElementGuid>ba023717-04b7-4c32-b0b7-71da6b288162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công việc'])[1]/preceding::p[3]</value>
+      <webElementGuid>b5e2403d-63df-409b-afe3-e3befe9b1f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='phungly@gmail.com']/parent::*</value>
+      <webElementGuid>26f0e8c4-a36b-4696-81f0-f6904cda6156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>5858aa19-0ddd-4421-9d4d-477ad5f424e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'phungly@gmail.com' or . = 'phungly@gmail.com')]</value>
+      <webElementGuid>a246f8df-418e-4fe3-82a8-56f4a1f71133</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

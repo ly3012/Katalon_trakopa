@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Trakopa</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>số điện thoại đúng</description>
+      <initValue>'0367673068'</initValue>
+      <name>username1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Số điện thoại sai</description>
+      <initValue>'032345678'</initValue>
+      <name>username2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>số điện thoại trống</description>
+      <initValue>''</initValue>
+      <name>username3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>mật khẩu đúng</description>
+      <initValue>'8hpL1O2nqpDAgR9zh5PFjQ=='</initValue>
+      <name>password1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>mật khẩu sai (đủ số kí tự)</description>
+      <initValue>'EXYsX0TXmNocZdda5OqwSw=='</initValue>
+      <name>password2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>mật khẩu trống</description>
+      <initValue>''</initValue>
+      <name>password3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Mật khẩu không đủ kí tự</description>
+      <initValue>'oC5ujqZ8Jjk='</initValue>
+      <name>password4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>URL Login</description>
+      <initValue>'http://localhost:32000/login'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

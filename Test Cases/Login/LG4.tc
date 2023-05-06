@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sai số điện thoại và đúng mật khẩu</description>
+   <name>LG4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>379be738-4605-4c2d-ac95-fab6f85497f4</testCaseGuid>
+</TestCaseEntity>

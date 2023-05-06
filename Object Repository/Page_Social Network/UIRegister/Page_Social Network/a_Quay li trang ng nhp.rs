@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Quay li trang ng nhp</name>
+   <tag></tag>
+   <elementGuidId>d37ab4b4-63d2-4f84-9c77-cb2bbc3d9780</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div/div[2]/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>32c049fd-9ad1-4d2b-83a4-9f48462b21ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>cedaa9ba-7e3d-40a6-b771-3a47d8404528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quay lại trang đăng nhập</value>
+      <webElementGuid>eb7576fa-3251-4776-9fec-1a32f4c71435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative core-body&quot;]/main[@class=&quot;mx-auto&quot;]/div[@class=&quot;flex relative&quot;]/div[@class=&quot;w-1/2 bg-transparent flex justify-center absolute right-0&quot;]/div[@class=&quot;w-[450px] mt-20&quot;]/div[@class=&quot;text-center go__register__page&quot;]/div[@class=&quot;text-[16px] mt-2 opacity-8&quot;]/a[1]</value>
+      <webElementGuid>f23a25e9-3775-4f0e-891f-bdc6304b6e5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div[2]/div/div/div/a</value>
+      <webElementGuid>e22fa386-f0d8-4c37-9f71-8b48628ce1aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Quay lại trang đăng nhập')]</value>
+      <webElementGuid>81441948-3fe7-4610-8582-783be3b3ca61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạn đã có tài khoản?'])[1]/following::a[1]</value>
+      <webElementGuid>c8c51d5c-b3db-4efe-9c52-f38d08b9e523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[2]/following::a[1]</value>
+      <webElementGuid>330e93cf-768c-458f-9afd-e7787aa38480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quay lại trang đăng nhập']/parent::*</value>
+      <webElementGuid>ae8b679e-d4af-494f-9c63-2eb4b9b40b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login')]</value>
+      <webElementGuid>b8b904df-184e-417c-bdd9-3360b954b830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>375364c8-0014-446a-a210-3ec73bf8f1b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/login' and (text() = 'Quay lại trang đăng nhập' or . = 'Quay lại trang đăng nhập')]</value>
+      <webElementGuid>dd4b7fcc-cda9-45d7-bd12-737cf8b3ed53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

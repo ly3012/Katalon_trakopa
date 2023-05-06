@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Gii thiu</name>
+   <tag></tag>
+   <elementGuidId>9dac3b0b-d2d6-4e61-b9b8-2ddbfb3c0daa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div/div[2]/div[3]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>88427fca-14ee-488c-9c6c-12b883d02519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover:text-[#fff] text-yellow-50</value>
+      <webElementGuid>05d02e7a-0606-428c-b38f-cf7f935d8882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/profile/643256b0a18074eb1c224622/about</value>
+      <webElementGuid>ce7386d4-adc6-4c3d-bd13-1e5fab22f5d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Giới thiệu</value>
+      <webElementGuid>077cd1c3-3e56-4320-b0b3-f8e17564a9a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/main[@class=&quot;mx-auto pt-[65px]&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;relative w-[80%] h-[380px]&quot;]/div[@class=&quot;h-[60px] rounded-b-lg w-full z-10 profile-menu&quot;]/ul[@class=&quot;w-[65%] h-full flex items-center justify-items-start uppercase text-[18px]&quot;]/li[@class=&quot;cursor-pointer h-full px-4 flex items-center transition-all border-b-[3px] justify-center font-semibold hover:border-[#fff] hover:transition-all border-transparent&quot;]/a[@class=&quot;hover:text-[#fff] text-yellow-50&quot;]</value>
+      <webElementGuid>879536c4-f0e6-42d8-88de-b2e010071feb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div[2]/div[3]/ul/li[2]/a</value>
+      <webElementGuid>ea2f0073-800f-4c69-95d8-08735fe4d42d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Giới thiệu')]</value>
+      <webElementGuid>5e27c657-9ac2-45f4-9813-fc46347953dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang chủ'])[1]/following::a[1]</value>
+      <webElementGuid>bfe36b85-a102-44cd-998f-37855eb56e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='theo dõi'])[1]/following::a[2]</value>
+      <webElementGuid>7701757c-ad58-479d-841a-c93c45130c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ảnh'])[1]/preceding::a[1]</value>
+      <webElementGuid>7715d906-4d57-4a46-8745-ba1dcc1509d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạn bè'])[1]/preceding::a[2]</value>
+      <webElementGuid>ffa91eaa-0a79-41b5-9c01-220de1965828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Giới thiệu']/parent::*</value>
+      <webElementGuid>1ebee95f-b66b-4c93-84cd-9d7d562c23df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/profile/643256b0a18074eb1c224622/about')]</value>
+      <webElementGuid>276fdd86-dbc5-40b6-9b3e-05b4701b1959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>e14a3ab7-f2a5-474d-b7eb-14dfc6623dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/profile/643256b0a18074eb1c224622/about' and (text() = 'Giới thiệu' or . = 'Giới thiệu')]</value>
+      <webElementGuid>a1b5b20b-a8ea-4483-9150-d5e4a9d08c05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

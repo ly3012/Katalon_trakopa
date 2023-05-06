@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mi ngi</name>
+   <tag></tag>
+   <elementGuidId>08a2903f-0bb5-4fd9-b6f8-9c1d08d79f4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e3ddbe85-9b8b-4b3a-a4cd-e9e32f8f7e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover:text-[#fff] text-yellow-50</value>
+      <webElementGuid>8b2bee35-18d6-4914-8602-95ec2446c42c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/search/people?q=nam</value>
+      <webElementGuid>efd4fd9a-196e-4ebc-b817-824b065d3545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mọi người</value>
+      <webElementGuid>93f1891b-f3cb-49a5-a074-460887e7fd3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/div[@class=&quot;flex border-t-[0.5px] pt-[65px] justify-center&quot;]/main[@class=&quot;w-1/2 static&quot;]/div[@class=&quot;mx-3&quot;]/div[@class=&quot;h-[60px] rounded-b-2xl w-full profile-menu&quot;]/ul[@class=&quot;w-[55%] h-full flex items-center justify-between uppercase text-[16px]&quot;]/li[@class=&quot;cursor-pointer h-full px-4 flex items-center transition-all border-b-[3px] justify-center font-semibold hover:border-[#fff] hover:transition-all border-transparent&quot;]/a[@class=&quot;hover:text-[#fff] text-yellow-50&quot;]</value>
+      <webElementGuid>ff086d56-77ca-45da-8780-b5148ca3062d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div/ul/li[4]/a</value>
+      <webElementGuid>27359ab9-eca6-4b7d-be30-4110566e920e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mọi người')]</value>
+      <webElementGuid>3743d485-4aad-419a-9939-77ca81d34386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bài viết'])[1]/following::a[1]</value>
+      <webElementGuid>e898f259-f050-4ec9-9e5d-dd32e5422750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa điểm'])[2]/following::a[2]</value>
+      <webElementGuid>cbc79908-9483-4222-96a8-0dc0e543a569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa điểm'])[3]/preceding::a[1]</value>
+      <webElementGuid>e963206a-18ac-4999-9639-611645ef6c0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nam Định'])[1]/preceding::a[1]</value>
+      <webElementGuid>43d7f3e9-cdcb-4197-adda-5743b8fbd7e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mọi người']/parent::*</value>
+      <webElementGuid>8d5a622a-5975-4401-8624-03817c9ecae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/search/people?q=nam')]</value>
+      <webElementGuid>bfab175c-436e-4419-a40b-0cd6dc4859ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/ul/li[4]/a</value>
+      <webElementGuid>1ba46c43-8ab4-476d-9fbb-647a20afa984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/search/people?q=nam' and (text() = 'Mọi người' or . = 'Mọi người')]</value>
+      <webElementGuid>9ff8166f-1c0e-4d93-8d69-be3cb9f2158d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Gii thiuChnh sa lm vic ti Ph ThTng hc t_9faaa2</name>
+   <tag></tag>
+   <elementGuidId>d9ea97a7-c201-47b0-8f85-f6e8c5ba4570</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.w-full.bg-white.rounded-lg.px-3.py-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bcd87441-e959-4864-9cbe-0d37ca80c066</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full bg-white rounded-lg px-3 py-4</value>
+      <webElementGuid>95b1f168-097e-4c80-afa1-ed68ff535b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Giới thiệuChỉnh sửaĐã làm việc tại Phú ThọTừng học tại PTDT nội trú tỉnh Phú ThọSống tại Phú ThọĐến từ Phú ThọTham gia vào tháng 4 năm 2023</value>
+      <webElementGuid>a9d0dc90-516d-4fc5-bae5-9766994cd991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/main[@class=&quot;mx-auto pt-[65px]&quot;]/div[@class=&quot;flex mt-20&quot;]/div[@class=&quot;w-[70%] min-h-screen flex justify-between&quot;]/div[@class=&quot;w-[39%] h-full&quot;]/div[@class=&quot;w-full bg-white rounded-lg px-3 py-4&quot;]</value>
+      <webElementGuid>e257d351-4496-4be3-8173-115fddcab71d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/div[2]/div/div</value>
+      <webElementGuid>535ec1c6-bfd7-4e5f-9372-09c754ec58e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạn bè'])[1]/following::div[6]</value>
+      <webElementGuid>ed4c9d74-b074-4cb2-b34b-fb8390de5e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ảnh'])[1]/following::div[6]</value>
+      <webElementGuid>4c872f8b-63a6-46b4-93df-1b1a3c87f769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>ae4d67ac-1a2c-4b38-9ac5-16b7fed45206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Giới thiệuChỉnh sửaĐã làm việc tại Phú ThọTừng học tại PTDT nội trú tỉnh Phú ThọSống tại Phú ThọĐến từ Phú ThọTham gia vào tháng 4 năm 2023' or . = 'Giới thiệuChỉnh sửaĐã làm việc tại Phú ThọTừng học tại PTDT nội trú tỉnh Phú ThọSống tại Phú ThọĐến từ Phú ThọTham gia vào tháng 4 năm 2023')]</value>
+      <webElementGuid>6fb6ac99-37ed-4a49-9a83-a48f5e50b7d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

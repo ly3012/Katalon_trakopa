@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Ly li mt khu</name>
+   <tag></tag>
+   <elementGuidId>193d6118-bbc5-453d-9bf8-e11a7a96aeb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div/div[2]/div/form/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>b99860e3-a0a7-4212-bbb3-0880add69259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[26px] mb-2 font-semibold uppercase</value>
+      <webElementGuid>231be6a3-ae85-4ec0-8927-ec19aad657d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lấy lại mật khẩu</value>
+      <webElementGuid>a0cfbd0b-fc32-4a22-87ca-74a64131676f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative core-body&quot;]/main[@class=&quot;mx-auto&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;w-1/2 bg-[#f2f2f2] flex justify-center&quot;]/div[@class=&quot;w-[450px] mt-20&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/h1[@class=&quot;text-[26px] mb-2 font-semibold uppercase&quot;]</value>
+      <webElementGuid>77c4e8ee-fe77-4bd0-be23-3fd4acf09c25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div[2]/div/form/h1</value>
+      <webElementGuid>267213a9-0de8-4f28-ac7a-a137d162b76f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/preceding::h1[1]</value>
+      <webElementGuid>617ecfda-5d88-4448-b04a-60469a91f470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác nhận'])[1]/preceding::h1[1]</value>
+      <webElementGuid>6106ec3d-2c1f-4409-82f0-d3a446d355da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lấy lại mật khẩu']/parent::*</value>
+      <webElementGuid>241fc5b5-2c6c-4053-81c5-db172f57b3c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>9f57797f-56ca-45bf-a75e-355267721e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Lấy lại mật khẩu' or . = 'Lấy lại mật khẩu')]</value>
+      <webElementGuid>2d310e79-5d0a-497c-b547-d9df049f38e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

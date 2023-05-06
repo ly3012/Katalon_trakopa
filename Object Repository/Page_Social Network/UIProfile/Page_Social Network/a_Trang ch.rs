@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Trang ch</name>
+   <tag></tag>
+   <elementGuidId>451ad9a3-1730-445b-b7b4-b4628d2dfcfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>42ac4160-c493-48ef-b2e0-6ddcf59e8517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover:text-[#fff] text-yellow-50</value>
+      <webElementGuid>70dd708a-5e29-40f5-8c42-60d3af4949a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/profile/643256b0a18074eb1c224622</value>
+      <webElementGuid>27b0f855-fdd9-4884-ac2f-1e735669fa1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trang chủ</value>
+      <webElementGuid>459a9ea7-543c-40d6-9d98-8b6419f916fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/main[@class=&quot;mx-auto pt-[65px]&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;relative w-[80%] h-[380px]&quot;]/div[@class=&quot;h-[60px] rounded-b-lg w-full z-10 profile-menu&quot;]/ul[@class=&quot;w-[65%] h-full flex items-center justify-items-start uppercase text-[18px]&quot;]/li[@class=&quot;cursor-pointer h-full px-4 flex items-center transition-all border-b-[3px] justify-center font-semibold hover:border-[#fff] hover:transition-all border-[#fff]&quot;]/a[@class=&quot;hover:text-[#fff] text-yellow-50&quot;]</value>
+      <webElementGuid>386432da-f58d-44d3-ab54-1b2bc220b3d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div[2]/div[3]/ul/li/a</value>
+      <webElementGuid>6f2189f9-9b2f-4844-b5a2-686852561c3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Trang chủ')]</value>
+      <webElementGuid>6abb5277-28f8-49c6-a915-0d60ccea5c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='theo dõi'])[1]/following::a[1]</value>
+      <webElementGuid>28aed47b-d873-42ce-b5b1-59d603da9dd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bài viết'])[1]/following::a[1]</value>
+      <webElementGuid>f9852ec1-2c55-4f95-8bc1-39c517c36450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giới thiệu'])[1]/preceding::a[1]</value>
+      <webElementGuid>540cd710-187a-4e0f-8abf-1a1b733aa002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ảnh'])[1]/preceding::a[2]</value>
+      <webElementGuid>0d96d869-f162-498c-ab49-795eae0c5698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Trang chủ']/parent::*</value>
+      <webElementGuid>24215e00-c51b-482f-af9f-1754764574ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/profile/643256b0a18074eb1c224622')]</value>
+      <webElementGuid>e110c4f8-2069-4e44-933f-5cedcbf8a2cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>22442c60-8276-423a-befa-57047874549b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/profile/643256b0a18074eb1c224622' and (text() = 'Trang chủ' or . = 'Trang chủ')]</value>
+      <webElementGuid>8a80bf6b-cd75-4443-b7c6-3c4c50f1aea3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

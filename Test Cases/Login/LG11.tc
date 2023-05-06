@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sai số điện thoại và mật khẩu không đủ  ký tự</description>
+   <name>LG11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7883224f-eb30-431f-88d7-80c342cb656a</testCaseGuid>
+</TestCaseEntity>

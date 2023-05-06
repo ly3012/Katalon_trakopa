@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ng nhpPhoneQun mt khung nhpBn cha c ti khonng k</name>
+   <tag></tag>
+   <elementGuidId>a35a4ba5-ba57-497a-9c40-bfe407245b4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>13f10806-946b-430a-8d0d-5010c1487af0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-1/2 bg-transparent flex justify-center absolute right-0</value>
+      <webElementGuid>d24f3ab3-cef4-46b3-adf7-14e57f7c28de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đặng nhậpPhoneQuên mật khẩu?Đặng nhậpBạn chưa có tài khoản?Đăng ký</value>
+      <webElementGuid>03720b40-b602-4084-9c59-b42afa31bb12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative core-body&quot;]/main[@class=&quot;mx-auto&quot;]/div[@class=&quot;flex relative&quot;]/div[@class=&quot;w-1/2 bg-transparent flex justify-center absolute right-0&quot;]</value>
+      <webElementGuid>1310d5eb-48be-40c9-9c50-c9b8a3bf614a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div[2]</value>
+      <webElementGuid>7c976637-52ec-4cb4-bf16-15328f140f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>43232e05-57fa-4bf2-9411-e41cb5bffbf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Đặng nhậpPhoneQuên mật khẩu?Đặng nhậpBạn chưa có tài khoản?Đăng ký' or . = 'Đặng nhậpPhoneQuên mật khẩu?Đặng nhậpBạn chưa có tài khoản?Đăng ký')]</value>
+      <webElementGuid>745a306f-15af-4a4b-8110-157d9e9a0b9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

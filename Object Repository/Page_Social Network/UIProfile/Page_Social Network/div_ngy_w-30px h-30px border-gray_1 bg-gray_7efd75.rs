@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ngy_w-30px h-30px border-gray_1 bg-gray_7efd75</name>
+   <tag></tag>
+   <elementGuidId>311d6de3-b129-47c9-b8e6-65022f2d0c89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div[2]/div[2]/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e6fcd8d0-4be5-47a9-9d64-e2511bbf2568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[30px] h-[30px] border-gray_1 bg-gray_1 hover:border-gray_2 hover:bg-gray_2 rounded-full flex items-center justify-center p-1 cursor-pointer shadow-md</value>
+      <webElementGuid>471db165-742a-4600-bc40-7cbd5de38cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/main[@class=&quot;mx-auto pt-[65px]&quot;]/div[@class=&quot;flex mt-20&quot;]/div[@class=&quot;w-[70%] min-h-[500px] bg-white rounded-lg flex justify-between&quot;]/div[@class=&quot;w-3/4 p-4 h-full&quot;]/div[@class=&quot;py-4 border-b&quot;]/div[@class=&quot;flex justify-between items-center&quot;]/div[@class=&quot;w-[30px] h-[30px] border-gray_1 bg-gray_1 hover:border-gray_2 hover:bg-gray_2 rounded-full flex items-center justify-center p-1 cursor-pointer shadow-md&quot;]</value>
+      <webElementGuid>bdb01b9f-ccbc-4bb7-9a1c-89fe96a8e13b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/div[2]/div[2]/div/div/div[2]</value>
+      <webElementGuid>33a0ac1d-04b2-4b51-bb6b-10c1eafc0f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ngày'])[1]/following::div[1]</value>
+      <webElementGuid>c7154f40-2c20-4769-b40e-7f8024311b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin cá nhân'])[1]/following::div[7]</value>
+      <webElementGuid>ba885170-e38e-4d0d-952e-f83a2475a31d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công việc'])[1]/preceding::div[1]</value>
+      <webElementGuid>cdd54583-2b31-465b-8d3c-66b6762514ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Học vấn'])[1]/preceding::div[5]</value>
+      <webElementGuid>500d60bb-0760-47c0-9e30-1122c509ae0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div[2]</value>
+      <webElementGuid>35bdf19e-13b1-46d7-b2ee-84bbd84c2e77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

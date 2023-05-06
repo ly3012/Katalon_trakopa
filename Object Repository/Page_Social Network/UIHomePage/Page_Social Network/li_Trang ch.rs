@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Trang ch</name>
+   <tag></tag>
+   <elementGuidId>c811a5ef-412d-435c-b90f-0805e5fafc95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>7fde8e26-83ce-4aa1-a5c4-4eee0924f72f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-3 cursor-pointer hover:bg-violet_2 hover:text-primary pl-10 flex items-center</value>
+      <webElementGuid>f7fade61-feef-4b79-a9b4-cd62eb524eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Trang chủ</value>
+      <webElementGuid>96a3a79f-1f3e-444e-9b77-e267de76450a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/div[@class=&quot;flex border-t-[0.5px] pt-[65px] justify-center&quot;]/div[@class=&quot;w-1/4 bg-white min-h-screen fixed z-10 left-0 block&quot;]/ul[@class=&quot;flex flex-col justify-center w-full&quot;]/li[@class=&quot;py-3 cursor-pointer hover:bg-violet_2 hover:text-primary pl-10 flex items-center&quot;]</value>
+      <webElementGuid>a2a018e9-5850-4cf8-b3f2-d96327c1a7ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/ul/li</value>
+      <webElementGuid>c267fa9c-b464-4ff7-92f2-8d774b072db8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phùng Lý'])[2]/following::li[1]</value>
+      <webElementGuid>fe4ba8df-232b-4123-8c16-09070f5a36b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phùng Lý'])[1]/following::li[1]</value>
+      <webElementGuid>d666ce76-9287-4298-8d12-22a520f82f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạn bè'])[1]/preceding::li[1]</value>
+      <webElementGuid>b26e2289-b8d6-44af-89a0-0d0568ef79f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>eae1296e-ae18-4cce-b371-0eaa29e08a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Trang chủ' or . = ' Trang chủ')]</value>
+      <webElementGuid>f4af4c78-381e-4e8d-a22c-bd508f1b63d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

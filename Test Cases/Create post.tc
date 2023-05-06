@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Đăng bài</description>
+   <name>Create post</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e059b010-0997-44e9-ba1f-d9a675c48936</testCaseGuid>
+</TestCaseEntity>

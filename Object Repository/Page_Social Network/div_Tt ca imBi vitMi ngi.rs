@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tt ca imBi vitMi ngi</name>
+   <tag></tag>
+   <elementGuidId>59d6f552-f7cf-497c-8c86-85cc712de2ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d944fb7-216c-4641-be16-a5107c58a4ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-[60px] rounded-b-2xl w-full profile-menu</value>
+      <webElementGuid>6148731b-e0b0-4bd4-b622-99f6ce548285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tất cảĐịa điểmBài viếtMọi người</value>
+      <webElementGuid>f517a7ef-8c08-4b2c-bea9-e6a5821be733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/div[@class=&quot;flex border-t-[0.5px] pt-[65px] justify-center&quot;]/main[@class=&quot;w-1/2 static&quot;]/div[@class=&quot;mx-3&quot;]/div[@class=&quot;h-[60px] rounded-b-2xl w-full profile-menu&quot;]</value>
+      <webElementGuid>94fde172-3e45-447c-9094-9bcdd1ab1995</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div</value>
+      <webElementGuid>a46a0932-25b2-4a73-9cc5-079ab943bd7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đặt phòng'])[1]/following::div[2]</value>
+      <webElementGuid>2c1db8c6-aba7-400d-b1f1-6c326b8b8b5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa điểm'])[1]/following::div[2]</value>
+      <webElementGuid>a0cfc862-b9fc-461c-b177-985918bde007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div</value>
+      <webElementGuid>b0982fac-93f5-4af5-90f0-c56eca000a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tất cảĐịa điểmBài viếtMọi người' or . = 'Tất cảĐịa điểmBài viếtMọi người')]</value>
+      <webElementGuid>7965b4c2-24d9-4c6d-8f09-6f55f53fa8f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Phng Nam gi yu cu kt bnXong Phng Nam gi_fcd598</name>
+   <tag></tag>
+   <elementGuidId>bd6e562b-6cfb-495b-97e3-81d2bffd03c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a01cd2da-071b-43a1-9b47-9028bf931d05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-5</value>
+      <webElementGuid>4a95fcd9-708e-4d9b-a198-9b8b89514043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phương NamĐã gửi yêu cầu kết bạnXoáĐồng ýPhương NamĐã gửi yêu cầu kết bạnXoáĐồng ýSinh nhật Hôm nay sinh nhậtPhương NamLiên hệ</value>
+      <webElementGuid>0bd7c5ff-456a-409d-97a7-00bfad4ce623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/div[@class=&quot;flex border-t-[0.5px] pt-[65px] justify-center&quot;]/div[@class=&quot;w-1/4 bg-white min-h-screen fixed z-10 right-0 block&quot;]/div[@class=&quot;p-5&quot;]</value>
+      <webElementGuid>aa1da7b4-8f68-40bf-a4c0-8b5306f14001</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div</value>
+      <webElementGuid>bf418701-138c-4ca8-ac00-bd7a911e2fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chia sẻ'])[5]/following::div[3]</value>
+      <webElementGuid>60048add-61c2-4536-bad6-464ef7a75fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bình luận'])[5]/following::div[4]</value>
+      <webElementGuid>15d816a8-677c-4bfb-994f-3014be337fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>2463e148-f111-484a-af3d-0fc22cadd25d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Phương NamĐã gửi yêu cầu kết bạnXoáĐồng ýPhương NamĐã gửi yêu cầu kết bạnXoáĐồng ýSinh nhật Hôm nay sinh nhậtPhương NamLiên hệ' or . = 'Phương NamĐã gửi yêu cầu kết bạnXoáĐồng ýPhương NamĐã gửi yêu cầu kết bạnXoáĐồng ýSinh nhật Hôm nay sinh nhậtPhương NamLiên hệ')]</value>
+      <webElementGuid>5e4ecf6a-89f2-45ac-ad18-e2bf10dd1f55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

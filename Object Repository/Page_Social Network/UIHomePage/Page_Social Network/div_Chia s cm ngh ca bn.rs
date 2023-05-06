@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Chia s cm ngh ca bn</name>
+   <tag></tag>
+   <elementGuidId>012ff142-6f28-497f-909a-de895bd0bf77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>57932b90-3298-43e6-94e8-c0f30f4bdda4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex px-3 justify-around text-white items-center h-[80px] bg-white shadow-sm rounded-lg mb-5</value>
+      <webElementGuid>80fc3b2b-f717-42a7-9d5a-4b2e8bb4ad8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chia sẻ cảm nghĩ của bạn</value>
+      <webElementGuid>4ddcae9c-f648-4a5a-9f45-fb7d689ff42d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/div[@class=&quot;flex border-t-[0.5px] pt-[65px] justify-center&quot;]/main[@class=&quot;w-1/2 static&quot;]/div[@class=&quot;px-8 pt-5 w-full overflow-y-auto h-screen main-feeds&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;flex px-3 justify-around text-white items-center h-[80px] bg-white shadow-sm rounded-lg mb-5&quot;]</value>
+      <webElementGuid>d92f863e-6307-4b6c-9647-f923a088a2ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div</value>
+      <webElementGuid>26bea589-71a7-4618-b0c0-6cacee17a5e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phương Nam'])[4]/following::div[3]</value>
+      <webElementGuid>88c1bdad-6e6e-43ee-9ab2-cd5f093fd75e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phương Nam'])[3]/following::div[5]</value>
+      <webElementGuid>ba9a522c-2617-431c-abb4-e730195be30b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phương Nam'])[5]/preceding::div[3]</value>
+      <webElementGuid>98e41749-2ce7-4bad-80fb-9cf807f87af6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div[2]/div</value>
+      <webElementGuid>f36fb5b3-1d04-44bf-b492-908a9c283b72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Chia sẻ cảm nghĩ của bạn' or . = 'Chia sẻ cảm nghĩ của bạn')]</value>
+      <webElementGuid>e50425c0-5a72-421b-86d9-21925ff086a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

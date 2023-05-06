@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_a im</name>
+   <tag></tag>
+   <elementGuidId>d9b11c51-556f-4553-8599-a209418c4617</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5236987e-f1ba-40c6-ae06-e56362d0502d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/place</value>
+      <webElementGuid>717ce132-a288-4841-8a4d-cc5d2e1132ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Địa điểm</value>
+      <webElementGuid>5dd2457d-7951-4e8e-9062-efb54d1508b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/div[@class=&quot;flex border-t-[0.5px] pt-[65px] justify-center&quot;]/div[@class=&quot;w-1/4 bg-white min-h-screen fixed z-10 left-0 block&quot;]/ul[@class=&quot;flex flex-col justify-center w-full&quot;]/li[@class=&quot;py-3 cursor-pointer hover:bg-violet_2 hover:text-primary pl-10 flex items-center&quot;]/a[1]</value>
+      <webElementGuid>e489400c-c56a-40ca-b383-417e87f32fc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/ul/li[3]/a</value>
+      <webElementGuid>a82ccdee-72d4-4c14-9be3-2aa6872ac14f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạn bè'])[1]/following::a[1]</value>
+      <webElementGuid>2ead06db-a9c2-45bd-b475-9f83e4bcad06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang chủ'])[1]/following::a[2]</value>
+      <webElementGuid>08d743ef-57f8-45f8-bda8-115b9970194a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đặt phòng'])[1]/preceding::a[1]</value>
+      <webElementGuid>cdf141b0-ee92-4ef8-b4dd-1df96d781770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/place')]</value>
+      <webElementGuid>f8a5d51b-3430-4d6b-a622-284a7ea85e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>d776496b-f02a-4527-ae76-6e9d41b93526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/place' and (text() = ' Địa điểm' or . = ' Địa điểm')]</value>
+      <webElementGuid>3d6686e4-406a-490f-9b2f-bafe492778fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

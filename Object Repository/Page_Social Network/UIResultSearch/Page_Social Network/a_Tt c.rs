@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tt c</name>
+   <tag></tag>
+   <elementGuidId>7a27ccfc-7bab-4522-bb02-543899dc5e0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6eafeda3-9973-4339-b189-47a739e1d1f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover:text-[#fff] text-yellow-50</value>
+      <webElementGuid>dd2807af-cd95-4294-a2f1-5e3442636479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/search/all?q=nam</value>
+      <webElementGuid>a1888c7c-b400-43a2-8468-377386338115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tất cả</value>
+      <webElementGuid>04f87234-3c7d-44f5-a3dd-63e0ef6ba182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/div[@class=&quot;flex border-t-[0.5px] pt-[65px] justify-center&quot;]/main[@class=&quot;w-1/2 static&quot;]/div[@class=&quot;mx-3&quot;]/div[@class=&quot;h-[60px] rounded-b-2xl w-full profile-menu&quot;]/ul[@class=&quot;w-[55%] h-full flex items-center justify-between uppercase text-[16px]&quot;]/li[@class=&quot;cursor-pointer h-full px-4 flex items-center transition-all border-b-[3px] justify-center font-semibold hover:border-[#fff] hover:transition-all border-[#fff]&quot;]/a[@class=&quot;hover:text-[#fff] text-yellow-50&quot;]</value>
+      <webElementGuid>d8a584f3-c5d9-4bb6-be59-965fb6f70967</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div/ul/li/a</value>
+      <webElementGuid>ce169c5a-44d7-4e58-a59c-d77c31601040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tất cả')]</value>
+      <webElementGuid>3664c094-16c8-4ef3-9725-2edbe6b5170a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lịch trình'])[1]/following::a[1]</value>
+      <webElementGuid>aa2687dd-5e12-4fbe-a456-6ad478c15db6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đặt phòng'])[1]/following::a[2]</value>
+      <webElementGuid>ea749eb6-cb10-49fc-9f69-7df2a5dbee9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa điểm'])[2]/preceding::a[1]</value>
+      <webElementGuid>dbea347b-61c9-4f6e-9bd2-5e3ee125cb8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bài viết'])[1]/preceding::a[2]</value>
+      <webElementGuid>dad97c7c-cdf3-4a34-a558-d6a45f63faad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tất cả']/parent::*</value>
+      <webElementGuid>b6df93f8-f657-4fb8-a705-0f09447a11ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/search/all?q=nam')]</value>
+      <webElementGuid>769f16bd-64ba-43f2-a52d-7cff5b571602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/ul/li/a</value>
+      <webElementGuid>46740614-bf88-4767-887e-2658a11d3182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/search/all?q=nam' and (text() = 'Tất cả' or . = 'Tất cả')]</value>
+      <webElementGuid>8c24e1e2-e55c-411d-a408-4f1b82ad9105</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

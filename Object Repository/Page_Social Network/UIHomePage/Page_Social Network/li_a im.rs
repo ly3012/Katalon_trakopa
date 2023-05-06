@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_a im</name>
+   <tag></tag>
+   <elementGuidId>03f73cfc-4116-458a-ad7c-a61579318eb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>15dde3c8-8b9c-48cb-ba0a-ee06e3a4a4f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-3 cursor-pointer hover:bg-violet_2 hover:text-primary pl-10 flex items-center</value>
+      <webElementGuid>62096fcf-99a2-41cc-8af1-de164ef2c333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Địa điểm</value>
+      <webElementGuid>3efd28e9-1caf-477f-a805-5999d4c6d01b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/div[@class=&quot;flex border-t-[0.5px] pt-[65px] justify-center&quot;]/div[@class=&quot;w-1/4 bg-white min-h-screen fixed z-10 left-0 block&quot;]/ul[@class=&quot;flex flex-col justify-center w-full&quot;]/li[@class=&quot;py-3 cursor-pointer hover:bg-violet_2 hover:text-primary pl-10 flex items-center&quot;]</value>
+      <webElementGuid>67e2aa5f-077a-4dae-a144-11445d818d13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/ul/li[3]</value>
+      <webElementGuid>a940a4a1-5668-4792-8c9f-19cdcd7a56f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạn bè'])[1]/following::li[1]</value>
+      <webElementGuid>20305f00-d621-4173-b7f4-8e385ff67738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang chủ'])[1]/following::li[2]</value>
+      <webElementGuid>3f50feaf-b4d3-4baf-b90f-6478bd3be3ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đặt phòng'])[1]/preceding::li[1]</value>
+      <webElementGuid>e20427b4-48bc-42df-ade8-287cf3182236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>e4fa1949-be6d-4eac-9951-8ee266ac7843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Địa điểm' or . = ' Địa điểm')]</value>
+      <webElementGuid>4111b9c9-d0dc-4c28-b601-50159748370e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

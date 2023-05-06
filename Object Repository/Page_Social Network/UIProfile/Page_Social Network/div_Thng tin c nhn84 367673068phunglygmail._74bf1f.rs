@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Thng tin c nhn84 367673068phunglygmail._74bf1f</name>
+   <tag></tag>
+   <elementGuidId>8f048e3c-bb00-46d0-ad6e-cf3181c444d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.py-4.border-b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div[2]/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>611470e0-54b9-4dae-89c7-9040d8c0d591</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-4 border-b</value>
+      <webElementGuid>5a00732c-12f4-416c-8808-aebde9b0cf4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thông tin cá nhân+84 367673068phungly@gmail.comNữngày 16 tháng 2 năm 2001</value>
+      <webElementGuid>6173cbac-1e5c-484a-aaf3-c8255f107156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/main[@class=&quot;mx-auto pt-[65px]&quot;]/div[@class=&quot;flex mt-20&quot;]/div[@class=&quot;w-[70%] min-h-[500px] bg-white rounded-lg flex justify-between&quot;]/div[@class=&quot;w-3/4 p-4 h-full&quot;]/div[@class=&quot;py-4 border-b&quot;]</value>
+      <webElementGuid>9b8d081b-66a8-4e82-964a-18f54cfa1870</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>b8bd150f-8aef-457d-bd6a-dd7a5a1adbb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phùng Lý'])[3]/following::div[2]</value>
+      <webElementGuid>3b5a533d-238c-48f2-84d7-e5c6861638c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạn bè'])[1]/following::div[7]</value>
+      <webElementGuid>f9888ab8-5234-48e4-91a5-af03b3ded16c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>5710310e-acb0-49ee-89f5-24e7e83a0940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Thông tin cá nhân+84 367673068phungly@gmail.comNữngày 16 tháng 2 năm 2001' or . = 'Thông tin cá nhân+84 367673068phungly@gmail.comNữngày 16 tháng 2 năm 2001')]</value>
+      <webElementGuid>eb6d2c18-3860-431b-bbf2-1a5b2da733a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

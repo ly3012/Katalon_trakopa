@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Giao diện trang đăng nhập</description>
+   <name>UILogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdbd87bd-f1a5-4467-8a99-cfcf7775fe4e</testCaseGuid>
+</TestCaseEntity>

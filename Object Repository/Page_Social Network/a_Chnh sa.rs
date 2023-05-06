@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Chnh sa</name>
+   <tag></tag>
+   <elementGuidId>7d755c8f-df66-4bd9-b33e-8f9b20b30341</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div[2]/div[2]/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>58cbed4a-bef9-47c3-912f-7d053846a09e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex px-2 py-1 border-gray_3 bg-gray_3 hover:border-gray_2 hover:bg-gray_2 rounded-full items-center cursor-pointer shadow-sm</value>
+      <webElementGuid>28d417a0-712d-4a80-bc11-813d7abc324c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/profile/643256b0a18074eb1c224622/about</value>
+      <webElementGuid>abb87655-ee1d-4f93-b53c-5c2bfd82f684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chỉnh sửa</value>
+      <webElementGuid>3f6ea69a-7381-48ac-abcd-08171ab27d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/main[@class=&quot;mx-auto pt-[65px]&quot;]/div[@class=&quot;flex mt-20&quot;]/div[@class=&quot;w-[70%] min-h-screen flex justify-between&quot;]/div[@class=&quot;w-[39%] h-full&quot;]/div[@class=&quot;w-full bg-white rounded-lg px-3 py-4&quot;]/div[@class=&quot;flex justify-between items-center&quot;]/a[@class=&quot;flex px-2 py-1 border-gray_3 bg-gray_3 hover:border-gray_2 hover:bg-gray_2 rounded-full items-center cursor-pointer shadow-sm&quot;]</value>
+      <webElementGuid>f678e0b5-458f-49b8-8e91-0ec50a8de069</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/div[2]/div/div/div/a</value>
+      <webElementGuid>8af31b25-401a-49ab-944d-52245fa810af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giới thiệu'])[2]/following::a[1]</value>
+      <webElementGuid>376a7f32-9b44-4f94-96ad-a1bb9103e0a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạn bè'])[1]/following::a[1]</value>
+      <webElementGuid>181d0bc8-0c4c-4a54-af44-412bef51a46b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chưa cập nhật'])[1]/preceding::a[1]</value>
+      <webElementGuid>9bdd2e75-4775-4962-a324-1ee091704f36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/profile/643256b0a18074eb1c224622/about')])[2]</value>
+      <webElementGuid>29da6add-e3a6-45c6-b06f-b2750ce6c11b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a</value>
+      <webElementGuid>07bd2ac6-139d-4521-aed8-a2dc967a4e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/profile/643256b0a18074eb1c224622/about' and (text() = 'Chỉnh sửa' or . = 'Chỉnh sửa')]</value>
+      <webElementGuid>fcf765de-776f-4c7c-bb93-fcb269dd36ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

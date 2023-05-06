@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Giao diện trang đăng ký tài khoản</description>
+   <name>UIRegister</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f55cae6f-f8fe-4284-b9ae-a22da217441e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Trống số điện thoại và trống mật khẩu</description>
+   <name>LG9</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e912793-4048-461a-8ce7-79246afcbf4e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Phng L_ant-input-affix-wrapper rounded-full w-250px ant-input-affix-wrapper-lg</name>
+   <tag></tag>
+   <elementGuidId>d7801350-0671-4b43-82c0-3fd4c8a4ee7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bb3ed226-5ddc-41bf-a036-2076b7727941</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input-affix-wrapper rounded-full w-[250px] ant-input-affix-wrapper-lg</value>
+      <webElementGuid>974c9ea6-1e1b-42e7-92ef-5d8494bde060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/div[@class=&quot;flex h-[65px] w-full justify-between bg-white items-center px-10 fixed z-50&quot;]/div[@class=&quot;inline-flex items-center&quot;]/div[2]/span[@class=&quot;ant-input-affix-wrapper rounded-full w-[250px] ant-input-affix-wrapper-lg&quot;]</value>
+      <webElementGuid>703ae62f-1196-48f6-9292-e7bf56be9b43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[2]/span</value>
+      <webElementGuid>9812f839-6503-41b3-ac22-e4876612b0a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phùng Lý'])[1]/preceding::span[6]</value>
+      <webElementGuid>c970d7f4-bcf4-40b7-a072-d76cbfe06fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phùng Lý'])[2]/preceding::span[8]</value>
+      <webElementGuid>a1cb5cdd-97ad-408c-ae01-11d74ea0a616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>89c8e2a4-cb49-4481-bf45-4d1ec0e8d574</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

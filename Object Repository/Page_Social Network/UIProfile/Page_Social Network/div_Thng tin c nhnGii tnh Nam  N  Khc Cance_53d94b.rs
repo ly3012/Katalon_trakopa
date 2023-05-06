@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Thng tin c nhnGii tnh Nam  N  Khc Cance_53d94b</name>
+   <tag></tag>
+   <elementGuidId>54b6ed53-6553-4db5-9080-8b74013b70e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div[2]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bdae35b5-9655-43a6-82e5-7b08b5b18966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-3/4 p-4 h-full</value>
+      <webElementGuid>edca19d6-1b79-48c2-bab2-751bae7c8f3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thông tin cá nhânGiới tính Nam  Nữ  Khác Cancel Cập nhậtCông việcĐã làm việc tại Phú ThọHọc vấnTừng học tại PTDT nội trú tỉnh Phú ThọĐịa chỉSống tại Phú ThọĐến từ Phú Thọ</value>
+      <webElementGuid>a85bc1d8-dc45-41a0-b3c0-0842559a2cac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen w-full my-0 mx-auto relative main-body&quot;]/main[@class=&quot;mx-auto pt-[65px]&quot;]/div[@class=&quot;flex mt-20&quot;]/div[@class=&quot;w-[70%] min-h-[500px] bg-white rounded-lg flex justify-between&quot;]/div[@class=&quot;w-3/4 p-4 h-full&quot;]</value>
+      <webElementGuid>e9682f42-ce4d-4d02-a4f5-1ddfb0f24165</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div[2]/div[2]/div[2]</value>
+      <webElementGuid>325bdd08-735b-4cc2-baca-b507a9cf0214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phùng Lý'])[3]/following::div[1]</value>
+      <webElementGuid>d0242a44-34d1-443c-80a1-13e1649edb78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạn bè'])[1]/following::div[6]</value>
+      <webElementGuid>a59b9016-d87b-4600-90e9-4f9b46f96ca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]</value>
+      <webElementGuid>9523138a-6bec-45df-8b20-3facfb6292f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Thông tin cá nhânGiới tính Nam  Nữ  Khác Cancel Cập nhậtCông việcĐã làm việc tại Phú ThọHọc vấnTừng học tại PTDT nội trú tỉnh Phú ThọĐịa chỉSống tại Phú ThọĐến từ Phú Thọ' or . = 'Thông tin cá nhânGiới tính Nam  Nữ  Khác Cancel Cập nhậtCông việcĐã làm việc tại Phú ThọHọc vấnTừng học tại PTDT nội trú tỉnh Phú ThọĐịa chỉSống tại Phú ThọĐến từ Phú Thọ')]</value>
+      <webElementGuid>658208ca-10a9-401d-a305-63ddedefcab9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

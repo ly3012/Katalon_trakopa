@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Chỉnh sửa thông tin cá nhân</description>
+   <name>EditProfile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6257bc0-5430-4187-9486-33abd650f0a5</testCaseGuid>
+</TestCaseEntity>
